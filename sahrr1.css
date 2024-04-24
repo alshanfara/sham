@@ -111,7 +111,7 @@ div#tlogins ::-webkit-scrollbar {
     color: #fff!important;
 }
 div#l1, div#l2, div#l3 {
-    background-color: #8d8d8d;
+    background-color: #d168f7;
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgb(255 255 255) 75%,transparent 75%,transparent) !important;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 14px 0 rgb(0 0 0 / 12%), 0 -14px 14px 0px rgb(0 0 0 / 20%);
     border: dashed;
